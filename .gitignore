@@ -1,0 +1,6 @@
+db/cred.php
+out.json
+.idea/*
+.vscode/*
+.idea/workspace.xml
+.vscode/settings.json
